@@ -1,3 +1,7 @@
+/* 
+*Matriz de 10x10 ingresado por teclado, sume la diagonal principal y
+secundaria.
+*/
 package Matrices;
 import java.util.Scanner;
 public class Ejercicio1{

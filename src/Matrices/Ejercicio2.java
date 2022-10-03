@@ -1,4 +1,8 @@
-package ejercicio2;
+/*
+Matriz de 10x10 ingresado por teclado, multiplique la diagonal principal y
+secundaria.
+*/
+package Matrices;
 import java.util.Scanner;
 
 public class Ejercicio2{

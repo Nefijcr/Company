@@ -1,3 +1,7 @@
+/*
+Matriz de 10x10 ingresado por teclado, que sume todas las filas pares de la
+matriz.
+*/
 package Matrices;
 import java.util.Scanner;
 
